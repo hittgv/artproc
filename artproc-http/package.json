@@ -1,0 +1,14 @@
+{
+  "name": "artproc-http",
+  "version": "1.0.0",
+  "description": "Web service to accept article processing requests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manthan Dave <manthanhd@live.com>",
+  "license": "MIT",
+  "dependencies": {
+    "brain": "file:///home/manthan/Documents/projects/hack24/hittgv/artproc/brain"
+  }
+}

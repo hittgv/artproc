@@ -1,0 +1,14 @@
+{
+  "name": "brain",
+  "version": "1.0.0",
+  "description": "Core data processing library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manthan Dave <manthanhd@live.com>",
+  "license": "MIT",
+  "dependencies": {
+    "external-http-gateway": "file:///home/manthan/Documents/projects/hack24/hittgv/artproc/external-http-gateway"
+  }
+}

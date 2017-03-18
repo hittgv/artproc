@@ -1,0 +1,11 @@
+{
+  "name": "external-http-gateway",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manthan Dave <manthanhd@live.com>",
+  "license": "MIT",
+  "description": "External gateway library to make it easy to talk to external services"
+}
